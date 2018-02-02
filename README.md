@@ -1,3 +1,5 @@
+# gomemcache [![GoDoc](https://godoc.org/github.com/gojuno/gomemcache?status.svg)](http://godoc.org/github.com/gojuno/gomemcache) [![Build Status](https://travis-ci.org/gojuno/gomemcache.svg?branch=master)](https://travis-ci.org/gojuno/gomemcache)
+
 ## About
 
 This is a memcache client library for the Go programming language
